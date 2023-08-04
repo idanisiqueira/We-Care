@@ -6,7 +6,7 @@ De uma forma acessível e simples, mostrando informações sobre o site, serviç
 O projeto é uma atividade do curso DevClub.
 <br>
   Foram utilizadas as ferramentas de <b>HTML</b> e <b>CSS</b> para sua criação e é também responsivo.</p>
-Pode-se clicar <a href="https://pjwecare.netlify.app/">aqui</a> para acessar o projeto hospedado.
+Pode-se clicar <a href="https://idanisiqueira.github.io/we-care/">aqui</a> para acessar o projeto hospedado.
 <br>
 <br>
 Representação no computador desktop ou notebook:
